@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://mi-proyecto-dvc-bucket/path/to/data
