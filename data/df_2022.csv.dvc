@@ -1,0 +1,5 @@
+outs:
+- md5: 7c3abc5098a62868f64e8ea16a50139a
+  size: 39773120
+  hash: md5
+  path: df_2022.csv
